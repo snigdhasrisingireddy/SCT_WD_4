@@ -1,7 +1,7 @@
 let tasks = [
-  { text: "Complete internship report", time: "2025-05-04T10:00", completed: true },
-  { text: "Team meeting at 3 PM", time: "2025-05-04T15:00", completed: false },
-  { text: "Review GitHub commits", time: "2025-05-05T09:00", completed: false }
+  { text: "Complete internship tasks", time: "2026-07-04T10:00", completed: true },
+  { text: "online training class", time: "2026-06-021T15:00", completed: false },
+  { text: "project completion", time: "2026-07-05T09:00", completed: true }
 ];
 
 if (localStorage.getItem("tasks")) {
